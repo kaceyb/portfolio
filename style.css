@@ -1,0 +1,47 @@
+.header {
+  background-image: url("images/1483234051087-2100503880.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#jumbo {
+  margin: 0px;
+  border-radius: 0px;
+  height: 200px;
+}
+
+body {
+  background-color: #445555;
+}
+
+.page-height {
+  height: 100%;
+}
+
+.corners {
+  border-radius: 8px;
+}
+
+.bg-1 {
+  background-color: #111111;
+}
+.bg-2 {
+  background-color: #227799;
+}
+.bg-3 {
+  background-color: #aaccee;
+}
+.pad {
+  padding-top: 10px;
+}
+.pad-nav {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.text {
+  color: #111111;
+  padding-left: 25px;
+  padding-right: 25px;
+}
